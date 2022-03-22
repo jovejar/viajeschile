@@ -1,0 +1,251 @@
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  }
+
+body {
+  background-color: #000000
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  border: 0px solid #7f9ceb
+}
+
+label.contact_form {
+color: #000000
+text-align: left;
+
+}
+
+.card-title {
+color: #ffffff;
+}
+
+.imagen-viajes {
+max-width: 2.5%!important;
+
+}
+
+.form-label {
+color: rgb(0, 150, 80);
+}
+.imagen-viajes .texto-viajes {
+display:block;
+}
+
+.mb-3 {
+text-align: left;
+color: #000000
+}
+
+.texto-viajes p {
+margin-left: 10px;
+margin-bottom: -1px;
+color: #ffffff
+}
+
+.navbar-nav {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+#contacto {
+  scroll-behavior: smooth;
+  font-display: unset
+}
+
+.imagen1 {
+  background-image: url('../img/fondo2.jpeg');
+
+}
+
+.my-navbar {
+  border: 0;
+  border-radius: 0;
+}
+
+.carousel2 {
+  background-image: url('../img/fondo2.jpeg');
+
+}
+
+.carousel3 {
+  background-image: url('../img/fondo3.jpeg');
+
+}
+
+.carousel-item {
+  height: 670px;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
+}
+
+
+.font-weight-light {
+  font-family: 'Source Serif Pro', serif
+}
+
+.parrafos {
+display: block;
+text-align: left;
+margin: 0 1em;
+}
+
+.fa-plane {
+color: white;
+background-color:#1798c1;
+padding-left: 140px;
+padding-right: 140px;
+font-size: 160%;
+margin: 3 auto;
+margin-right: 10px;
+
+}
+
+.fa-car {
+color:  white;
+background-color:#1798c1;
+padding-left: 140px;
+padding-right: 140px;
+font-size: 160%;
+margin: 0 auto;
+margin-right: 10px;
+}
+
+.fa-anchor {
+color: white;
+background-color:#1798c1;
+padding-left: 140px;
+padding-right: 140px;
+font-size: 160%;
+margin: 0 auto;
+margin-right: 10px;
+}
+
+h1 {
+
+color: white!important;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+background-color: #000000
+}
+
+.textos {
+color: white!important;
+text-align: left;
+}
+
+
+
+@media screen and (max-width:1200px) {
+.card {
+  margin-left: 15px;
+  margin-bottom: 23px; 
+}
+}
+
+@media screen and (max-width:1200px) {
+.navbar-toggler{
+  position: relative;
+left: 20px;
+}
+}
+
+@media screen and (max-width:768px) {
+.imagen-viajes {
+  
+    max-width: 10%!important;
+
+}
+}
+
+@media screen and (max-width:768px) {
+.navbar-bar .ml-auto ,a {
+  
+    text-align: left;
+
+}
+}
+
+@media screen and (max-width:768px) {
+.texto-viajes {
+  margin-right: 80px!important;
+
+}
+}
+
+@media screen and (max-width:1200px) {
+.foot {
+  position: relative;
+  right: 28px;
+}
+}
+.container {
+    max-width:99%;
+    width: 90%;
+}
+.col-md-3{
+    width:99%;
+    float:left;
+    margin:0;
+}
+
+
+.card {
+  background-color: #000000
+  margin: 90 auto;
+  float: none; 
+  
+  }
+  
+
+h2 {
+color: white!important;
+text-align: center;
+font-size:2.5em!important;
+vertical-align: middle;
+padding-top: 25px;
+padding-bottom: 15px;
+}
+
+h3 {
+color: white!important;
+text-align: left;
+font-size:2.5em!important;
+vertical-align: middle;
+padding-top: 25px;
+}
+
+h4 {
+color: white!important;
+font-size: 1.6;
+
+}
+/*título cards*/
+
+h5 {
+color: #ffffff!important;
+font-size: 1.3em;
+}
+
+p {
+font-size 0,9em
+color: #ffffff!important;
+}
+
+
+.fa-2x {
+margin: 0 0.3em;
+color: white!important;
+}
